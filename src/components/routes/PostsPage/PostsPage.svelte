@@ -1,5 +1,12 @@
-<script></script>
-<h1 class="title">Pagina dei post</h1>
+<script>
+import SideBar from "../../SideBar/SideBar.svelte";
+
+
+  
+</script>
+<div class="posts">
+  <SideBar />
+</div>
 
 <style>
   .title{
